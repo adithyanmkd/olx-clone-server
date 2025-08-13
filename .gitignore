@@ -37,3 +37,8 @@ Thumbs.db
 .idea/
 *.swp
 
+# Optional: if you use PM2 logs
+.pm2/
+
+# Optional: if you use Docker
+docker-compose.override.yml
